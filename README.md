@@ -2,6 +2,14 @@
 
 This theme is a port of [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material), currently supports GTK, Gnome, Cinnamon, XFCE, Unity, Plank and Icons.
 
+Normal icons:
+
+![](./demo_normal_icons.png)
+
+OneColored icons (for panel and action icons - the rest stays the same):
+
+![](./demo_onecolored_icons.png)
+
 ## Installation
 
 ### Requirements
